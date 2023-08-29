@@ -1,0 +1,5 @@
+#collapse navbar-collapse {
+    display: inline-block;
+    background-color:    #ffffff;
+    height: 75px;
+}
